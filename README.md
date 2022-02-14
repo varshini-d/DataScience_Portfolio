@@ -9,13 +9,11 @@ Data Analyst with 4 years of experience interpreting and analyzing data to drive
 - SAS, SQL, Python
 - Reporting in Adobe Analytics and Tableau
 ```
+## Work Experience
+###Digital Analytics – Manager 
+Synchrony 
+06/21– 09/21
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/varshini-d/DataScience_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```markdown
+- Analyzing the Platform performance by continuous monitoring over a period of 30/60/90 days post launch through  automating Adobe analytics and Tableau reports by providing actionable insights for improving the customer experience - Ensuring the frontend and backend data tracking for the new loan installment product servicing platform by collecting  the data from UI and enterprise APIs respectively. Built a new data architecture for data capture through APIs for the  digital analytics logs which is being adapted enterprise level for all other platforms as well. Even as business  requirements and decisions were dynamic, collaborated with the business, developers, and product owners to ensure  digital analytics was considered. 
+```
