@@ -1,5 +1,3 @@
-# Kula Varshini Devarasetty
-
 Data Analyst with 4 years of experience interpreting and analyzing data to drive successful business solutions. Proficient knowledge  in statistics and analytics. Excellent understanding of business operations and analytics tools for effective analysis of data.  
 
 
